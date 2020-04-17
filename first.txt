@@ -1,7 +1,7 @@
 Kontol
 
 <<<<<<< HEAD
-takontol kontol ca 1820-1830
+takontol kontol ca 1820-1840
 =======
 takontol kontol ca 1800s!
 >>>>>>> lincoln
